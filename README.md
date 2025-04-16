@@ -31,13 +31,13 @@
 ### 🧩 Lenguajes
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js" />
 </p>
 
 ### ⚛️ Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ### 🔗 Backend & Bases de Datos
