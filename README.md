@@ -17,10 +17,10 @@
 
 🎓 Actualmente curso el **Máster Full Stack Web Developer en [Conquer Blocks](https://conquerblocks.com/)**, donde he adquirido competencias en:
 
-- 🔧 **Backend:** Python
-- 🎨 **Frontend:** HTML, CSS, JavaScript, React
+- 🔧 **Backend:** Python,Django, Java, Node.js, Rust, Go
+- 🎨 **Frontend:** HTML, CSS, JavaScript, React,Angular, Vue, Astro
 - 🛠️ **Dev tools:** Git, GitHub, Linux, SQL, ORM
-- 🌐 **Otros:** despliegue en servidores, principios SOLID
+- 🌐 **Otros:** despliegue en servidores, principios SOLID,WordPress con PHP
 
 📍 Busco la mejora continua como **desarrollador full stack**, donde pueda seguir aprendiendo, aportar soluciones reales y trabajar en equipo.
 
